@@ -1,0 +1,11 @@
+Date,Product,Region,Sales
+2024-01-01,Pen,North,120
+2024-01-01,Notebook,South,250
+2024-01-02,Pen,North,200
+2024-01-02,Notebook,West,300
+2024-01-03,Marker,East,180
+2024-01-03,Pen,South,100
+2024-01-04,Notebook,North,220
+2024-01-04,Marker,West,150
+2024-01-05,Pen,East,130
+2024-01-05,Notebook,South,270
