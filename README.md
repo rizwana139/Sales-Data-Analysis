@@ -12,11 +12,15 @@ This project analyzes a sample sales dataset using **Pandas** and visualizes key
 ##  What This Project Does
 
  ✓ Loads sales data from CSV
+
  ✓ Cleans and explores the data
+
  ✓ Groups and summarizes sales by:
+
    - Product
    - Region
    - Date
+
  ✓ Generates bar and line charts for insights
 
 **Outcome:** Basic data insights using Python
