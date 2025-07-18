@@ -18,13 +18,13 @@ region_sales = df.groupby('Region')['Sales'].sum()
 print("\nTotal Sales by Region:\n", region_sales)
 
 # Plotting
-product_sales.plot(kind='bar', title='Sales by Product', color='skyblue')
+product_sales.plot(kind='bar', title='Sales by Product', color='orange')
 plt.ylabel("Sales")
 plt.grid(True)
 plt.tight_layout()
 plt.show()
 
-region_sales.plot(kind='bar', title='Sales by Region', color='salmon')
+region_sales.plot(kind='bar', title='Sales by Region', color='purple')
 plt.ylabel("Sales")
 plt.grid(True)
 plt.tight_layout()
